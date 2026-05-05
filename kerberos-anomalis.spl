@@ -1,0 +1,2 @@
+index=windows EventCode=4672
+| stats count by Account_Name, host

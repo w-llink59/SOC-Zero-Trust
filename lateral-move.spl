@@ -1,0 +1,2 @@
+index=windows (EventCode=4624 OR EventCode=4648)
+| stats count by src_ip, dest_host, Account_Name
