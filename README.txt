@@ -39,7 +39,7 @@ The goal is to reproduce realistic scenarios (Active Directory attacks, suspicio
 * Windows (user endpoint)
 * Splunk Enterprise (SIEM)
 * Splunk Universal Forwarder (log collection)
-* OpenEDR Trial (EDR – endpoint detection)
+* OpenEDR Trial (EDR – endpoint detection) - Elastic-EDR-Trial***
 * Velociraptor ( Hunt-Forensic )
 * Crowdstrike Trial (Threat Hunting)
 * Octelium (ZTNA – Zero Trust access control)
