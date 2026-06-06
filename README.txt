@@ -32,7 +32,7 @@ The goal is to reproduce realistic scenarios (Active Directory attacks, suspicio
 
 ## Lab Architecture
 
-### Components
+### Components Testing
 
 * Kali Linux (attacker machine)
 * Windows Server (Active Directory)
@@ -43,6 +43,7 @@ The goal is to reproduce realistic scenarios (Active Directory attacks, suspicio
 * Velociraptor ( Hunt-Forensic )
 * Crowdstrike Trial (Threat Hunting)
 * Octelium (ZTNA – Zero Trust access control)
+* Agentic AI ( Ollama/Openai/Anthropic/Qwen ) 
 
 ---
 
