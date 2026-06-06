@@ -37,6 +37,7 @@ The goal is to reproduce realistic scenarios (Active Directory attacks, suspicio
 * Kali Linux (attacker machine)
 * Windows Server (Active Directory)
 * Windows (user endpoint)
+* Ubuntu ( target container docker orchestred by Kubernetes ) 
 * Splunk Enterprise (SIEM)
 * Splunk Universal Forwarder (log collection)
 * OpenEDR Trial (EDR – endpoint detection) - Elastic-EDR-Trial***
