@@ -317,10 +317,11 @@ Detection:
 * Attack detection
 * Security investigation
 * Endpoint monitoring
-* Zero Trust implementation
+* Zero Trust implementation ***
 * Behavioral analysis
 * Active Directory
 * Threat detection
+* AI implementation ***
 
 ---
 
