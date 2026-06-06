@@ -43,8 +43,9 @@ The goal is to reproduce realistic scenarios (Active Directory attacks, suspicio
 * OpenEDR Trial (EDR – endpoint detection) - Elastic-EDR-Trial***
 * Velociraptor ( Hunt-Forensic )
 * Crowdstrike Trial (Threat Hunting)
-* Octelium (ZTNA – Zero Trust access control)
-* Agentic AI ( Ollama/Openai/Anthropic/Qwen ) 
+* CrowdSec ( Network-Protect )***
+* Octelium (ZTNA – Zero Trust access control)***
+* Agentic AI ( Ollama/Openai/Anthropic/Qwen )*** 
 
 ---
 
